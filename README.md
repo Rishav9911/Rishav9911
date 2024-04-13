@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning full stack web development and polishing my DSA skills in programming language C++.
 - 💞️ I’m looking to collaborate on big projects and open-source projects that interests me.
 
+- Connect with me on <a href="https://www.linkedin.com/in/rishav-sachdeva-554525248/">Linkedin</a>.
+.
 
 <!---
 Rishav9911/Rishav9911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
