@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishav9911
-- 👀 I’m interested in learning various new technologies to learn and expand my field of knowledge.
-- 🌱 I’m currently learning full stack web development and already having ample knowledge of HTML / CSS / JAVASCRIPT and polishing my DSA knowledge in programming language C++.
-- 💞️ I’m looking to collaborate on big projects and open-source once I have enough knowledge to do so.
+- 👀 I’m take good interest in learning new technologies to learn and expand my field of knowledge to go with the upcoming trends.
+- 🌱 I’m currently learning full stack web development and polishing my DSA skills in programming language C++.
+- 💞️ I’m looking to collaborate on big projects and open-source projects that interests me.
 
 
 <!---
