@@ -11,7 +11,7 @@ Excited to connect with you here! As a web developer, I specialize in ReactJS, N
 - 🌱 Always eager to learn new technologies and go with the upcoming trends.
 - 💬 Would love to collaborate with people sharing same interest as me.
 - 📫 Reach me at: [sachdevarishav449@gmail.com](mailto:sachdevarishav449@gmail.com)
-- 📄 My [Resume](https://drive.google.com/drive/folders/1god4HG-wzS83kqF46IIctO2o6azXvXT6)
+- 📄 My [Resume](https://drive.google.com/drive/folders/15SD9ot7qUPdzl0jkmCxysshs3n4Ol0hs?usp=sharing)
 
 <hr/>
 
