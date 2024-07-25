@@ -5,7 +5,7 @@
 
 <hr/>
 
-Excited to connect with you here! As a web developer, I specialize in ReactJS, Node.js, Express.js, and PostgreSQL, driven by my passion for creating immersive and intuitive web experiences. I'm always eager to learn and grow, actively seeking new opportunities to expand my skills and contribute to cutting-edge projects.
+Excited to connect with you here! As a web developer, I specialize in ReactJS, Node.js, Express.js, and MongoDB as well as have knowledge of frameworks including Flask and Spring Boot, driven by my passion for creating immersive and intuitive web experiences. I'm always eager to learn and grow, actively seeking new opportunities to expand my skills and contribute to cutting-edge projects.
 
 - 🔭 Non-stop grinding of **DSA Skills**
 - 🌱 Always eager to learn new technologies and go with the upcoming trends.
