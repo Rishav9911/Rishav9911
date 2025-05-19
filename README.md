@@ -12,11 +12,12 @@ Excited to connect with you here! As a web developer, I specialize in ReactJS, N
 - 💬 Would love to collaborate with people sharing same interest as me.
 - 📫 Reach me at: [sachdevarishav449@gmail.com](mailto:sachdevarishav449@gmail.com)
 - 📄 My [Resume](https://drive.google.com/drive/folders/15SD9ot7qUPdzl0jkmCxysshs3n4Ol0hs?usp=sharing)
+- 📄 My [Portoflio](https://my-portfolio-teal-phi-36.vercel.app/)
 
 <hr/>
 
 ## Connect with me on:
- <a href="https://www.linkedin.com/in/rishav-sachdeva-554525248/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav Sachdeva" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/rishavsachdeva9911/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav Sachdeva" height="30" width="40" /></a>
 
 
 ## Thank you for Visiting!
