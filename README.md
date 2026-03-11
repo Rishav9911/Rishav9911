@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 I'm currently interning at **Karkhana Club**
+- 🎓 I'm have done summer internships at **Karkhana Club** and **Spicejet Limited**
 - 🧑‍💻 Proficient in **Full Stack Development**
 - 🤖 Passionate about **AI/ML**
 - 🔁 Non-stop grinding of **DSA Skills**
