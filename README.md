@@ -6,7 +6,7 @@
 - 🤝 Would love to collaborate with people sharing the same interests
 - 📫 Reach me at: **sachdevarishav449@gmail.com**
 - 📄 [My Resume](https://drive.google.com/drive/folders/15SD9ot7qUPdzl0jkmCxysshs3n4Ol0hs?usp=sharing)
-- 🌐 [My Portfolio](https://my-portfolio-teal-phi-36.vercel.app/)
+- 🌐 [My Portfolio](https://rishavsachdeva.vercel.app/)
 
 
 
